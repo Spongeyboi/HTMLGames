@@ -4,3 +4,5 @@ Play these games made by MoldyGH in your browser<br>
 [Dave House](https://spongeyboi.github.io/moldyHTMLGames/DaveHouse/)<br>
 
 There's more but it's too much to add here
+
+Check out the original repo here: https://github.com/MoldyGH/HTMLGames/
